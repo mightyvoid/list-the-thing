@@ -13,7 +13,7 @@
 
 
 
-** ======DEMO PICS====== **
+**======DEMO PICS======**
 
 <img width="556" alt="Screenshot 2024-09-20 at 7 37 23 PM" src="https://github.com/user-attachments/assets/e5ea284e-260f-4de4-8acf-6bc2741b229f">
 
