@@ -12,8 +12,8 @@
 
 
 
-** ======DEMO PICS====== **\
+** ======DEMO PICS====== **
 
-<img width="556" alt="Screenshot 2024-09-20 at 7 37 23 PM" src="https://github.com/user-attachments/assets/e5ea284e-260f-4de4-8acf-6bc2741b229f">\
+<img width="556" alt="Screenshot 2024-09-20 at 7 37 23 PM" src="https://github.com/user-attachments/assets/e5ea284e-260f-4de4-8acf-6bc2741b229f">
 
-<img width="1329" alt="Screenshot 2024-09-20 at 7 31 41 PM" src="https://github.com/user-attachments/assets/992689ff-d97e-49fa-a13c-337b519ae766">\
+<img width="1329" alt="Screenshot 2024-09-20 at 7 31 41 PM" src="https://github.com/user-attachments/assets/992689ff-d97e-49fa-a13c-337b519ae766">
