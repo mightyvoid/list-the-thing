@@ -4,10 +4,10 @@
 >When I was searching through blogs to revise few coding problems, I wanted something that >will just pull the headings/questions, so I made this simple script and added it to my >chrome extension which I can use on any site, mostly works well properly coded sites.
 
 
-# How to use ?\
+# How to use ?
 1.Load the files to chrome extension,and open the extension, click on this button.\
 2.Now select the kind of elements that you want a list of\
-3.All the text within the element will displayed in the div with a button close.\
+3.All the text within the element will displayed in the div with a button close.
 
 
 
