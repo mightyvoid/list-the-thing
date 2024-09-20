@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "list-the-thing",
+    "version": "1.0",
+    "description": "simple extension that will list all the similar items from the webpage, selected by the user",
+    "action": {
+        "default_popup": "index.html",
+        "default_tile": "list-the-thing",
+        "default_icon":"list-icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ]
+}
