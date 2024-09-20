@@ -1,7 +1,8 @@
 # list-the-thing
 
 
->When I was searching through blogs to revise few coding problems, I wanted something that will just pull the headings/questions, so I made this simple script and added it to my >chrome extension which I can use on any site, mostly works well properly coded sites.
+>When I was searching through blogs to revise few coding problems, I wanted something that will just pull the headings/questions, \
+>so I made this simple script and added it to my chrome extension which I can use on any site, mostly works well properly coded sites.
 
 
 # How to use ?
